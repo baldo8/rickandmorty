@@ -1,0 +1,30 @@
+/* Nav.module.css */
+
+/* Styles for the main navigation container */
+.nav {
+  background-color: #333;
+  padding: 8px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* Styles for the navigation links */
+.navLink {
+  color: white;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+/* Styles for the navigation links on hover */
+.navLink:hover {
+  background-color: #555;
+}
+
+/* Styles for the SearchBar component inside the Nav */
+/* You can customize these styles further as needed */
+.SearchBar {
+  width: 300px;
+  margin: 0 16px;
+}

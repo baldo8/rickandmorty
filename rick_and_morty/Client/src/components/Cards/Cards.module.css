@@ -1,0 +1,9 @@
+/* Cards.module.css */
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-start; /* To horizontally center the cards */
+  }
+  
+
+  

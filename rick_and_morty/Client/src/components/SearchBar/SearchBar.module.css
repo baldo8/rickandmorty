@@ -1,0 +1,14 @@
+/* SearchBar.module.css */
+.btn {
+    background-color: #54e1a9; /* Replace with your desired color */
+    color: #fff; /* Text color for the button */
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: rgba(221, 203, 203, 0.8);/* Change the color on hover if desired */
+  }
+  
